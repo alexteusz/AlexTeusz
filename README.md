@@ -4,9 +4,9 @@
 [![Qualle Shop](https://img.shields.io/website?label=qualle.shop&style=for-the-badge&url=https%3A%2F%2Fqualle.shop/)](https://qualle.shop)
 [![Zahntechnik Erdmann](https://img.shields.io/website?label=zahntechnik-erdmann.de&style=for-the-badge&url=https%3A%2F%2Fzahntechnik-erdmann.de)](https://zahntechnik-erdmann.de/)
 
-Welcome to my GitHub profile. Don't hesitate to check my [repositories](https://github.com/AlexTeusz?tab=repositories) and contact me if you want to talk about tech or anything else. 🌴
-
 ## I'm a Musician, Developer, and conversational AI Trainer!
+
+Welcome to my GitHub profile. Don't hesitate to check my [repositories](https://github.com/AlexTeusz?tab=repositories) and contact me if you want to talk about tech or anything else. 🌴
 
 - 🔭 I’m currently working at [Cognigy](https://www.cognigy.com)!
 - 🌱 I’m currently learning everything 🤣
