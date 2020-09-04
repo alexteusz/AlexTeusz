@@ -38,20 +38,10 @@ Welcome to my GitHub profile. Don't hesitate to check my [repositories](https://
 
 ---
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<summary>:zap: Github Stats</summary>
 
-</details>
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AlexTeusz&show_icons=true&hide_border=true" />
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AlexTeusz&show_icons=true&hide_border=true" />
-
-</details>
 
 [youtube]: https://www.youtube.com/channel/UCBaVG8SjGtITabko-NYARMg?view_as=subscriber
 [linkedin]: https://www.linkedin.com/in/alexander-teusz-7b1312153/
