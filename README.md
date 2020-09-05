@@ -41,6 +41,11 @@ Welcome to my GitHub profile. Don't hesitate to check my [repositories](https://
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Von Österreich nach Italien mit der BMW R1100RT - Jaufenpass](https://www.youtube.com/watch?v=fdEJ3sFsuRE)
+- [Motorrad - Road King Special 2020](https://www.youtube.com/watch?v=BeeVp8OQYs8)
+- [Motorrad - Düsseldorf Nord](https://www.youtube.com/watch?v=7JdL2MRhX1E)
+- [Gute-Nacht-Geschichten - Die Prinzessin und die Krähe](https://www.youtube.com/watch?v=VBAprw0vW98)
+- [Gute-Nacht-Geschichten - Der Eisbär, der die Sonne liebte](https://www.youtube.com/watch?v=eULSB9oO7Yg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCBaVG8SjGtITabko-NYARMg?view_as=subscriber)
