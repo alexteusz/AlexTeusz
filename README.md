@@ -38,6 +38,15 @@ Welcome to my GitHub profile. Don't hesitate to check my [repositories](https://
 
 ---
 
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/channel/UCBaVG8SjGtITabko-NYARMg?view_as=subscriber)
+
+---
+
 <summary>:zap: Github Stats</summary>
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AlexTeusz&show_icons=true&hide_border=true" />
