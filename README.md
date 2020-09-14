@@ -8,7 +8,7 @@
 
 Welcome to my GitHub profile. Don't hesitate to check my [repositories](https://github.com/AlexTeusz?tab=repositories) and contact me if you want to talk about tech or anything else. 🌴
 
-- 🔭 I’m currently working at [Cognigy](https://www.cognigy.com)!
+- 🔭 I’m working at [Cognigy](https://www.cognigy.com)!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 
