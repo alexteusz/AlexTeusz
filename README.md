@@ -6,6 +6,9 @@
 
 ## I'm a Musician, Developer, and conversational AI Trainer!
 
+- [Website](https://alexteusz.de)
+- [API](https://api.alexteusz.de)
+
 Welcome to my GitHub profile. Don't hesitate to check my [repositories](https://github.com/AlexTeusz?tab=repositories) and contact me if you want to talk about tech or anything else. 🌴
 
 - 🔭 I’m working at [Cognigy](https://www.cognigy.com)!
