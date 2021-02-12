@@ -3,6 +3,7 @@
 [![Stay KingPin](https://img.shields.io/website?label=stay-kingpin.de&style=for-the-badge&url=https%3A%2F%2Fstay-kingpin.de)](https://stay-kingpin.de)
 [![Qualle Shop](https://img.shields.io/website?label=qualle.shop&style=for-the-badge&url=https%3A%2F%2Fqualle.shop/)](https://qualle.shop)
 [![Zahntechnik Erdmann](https://img.shields.io/website?label=zahntechnik-erdmann.de&style=for-the-badge&url=https%3A%2F%2Fzahntechnik-erdmann.de)](https://zahntechnik-erdmann.de/)
+[![Autohaus Drost](https://img.shields.io/website?label=autohaus-drost.de&style=for-the-badge&url=https%3A%2F%2Fautohaus-drost.de)](https://autohaus-drost.de/)
 
 ## I'm a Musician, Developer, and conversational AI Trainer!
 
@@ -48,7 +49,7 @@ Welcome to my GitHub profile. Don't hesitate to check my [repositories](https://
 - [Motorrad - Road King Special 2020](https://www.youtube.com/watch?v=BeeVp8OQYs8)
 - [Motorrad - Düsseldorf Nord](https://www.youtube.com/watch?v=7JdL2MRhX1E)
 - [Gute-Nacht-Geschichten - Die Prinzessin und die Krähe](https://www.youtube.com/watch?v=VBAprw0vW98)
-- [Gute-Nacht-Geschichten - Der Eisbär, der die Sonne liebte](https://www.youtube.com/watch?v=eULSB9oO7Yg)
+- [Gute-Nacht-Geschichten - Der Eisbär, der die Sonne liebte](https://www.youtube.com/watch?v=eULSB9oO7Yg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCBaVG8SjGtITabko-NYARMg?view_as=subscriber)
