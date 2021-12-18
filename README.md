@@ -1,7 +1,6 @@
 ### Hi there, I'm Alex 👋
 
 [![Stay KingPin](https://img.shields.io/website?label=stay-kingpin.de&style=for-the-badge&url=https%3A%2F%2Fstay-kingpin.de)](https://stay-kingpin.de)
-[![Qualle Shop](https://img.shields.io/website?label=qualle.shop&style=for-the-badge&url=https%3A%2F%2Fqualle.shop/)](https://qualle.shop)
 [![Zahntechnik Erdmann](https://img.shields.io/website?label=zahntechnik-erdmann.de&style=for-the-badge&url=https%3A%2F%2Fzahntechnik-erdmann.de)](https://zahntechnik-erdmann.de/)
 [![Autohaus Drost](https://img.shields.io/website?label=autohaus-drost.de&style=for-the-badge&url=https%3A%2F%2Fautohaus-drost.de)](https://autohaus-drost.de/)
 
