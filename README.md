@@ -3,6 +3,7 @@
 [![Stay KingPin](https://img.shields.io/website?label=stay-kingpin.de&style=for-the-badge&url=https%3A%2F%2Fstay-kingpin.de)](https://stay-kingpin.de)
 [![Zahntechnik Erdmann](https://img.shields.io/website?label=zahntechnik-erdmann.de&style=for-the-badge&url=https%3A%2F%2Fzahntechnik-erdmann.de)](https://zahntechnik-erdmann.de/)
 [![Autohaus Drost](https://img.shields.io/website?label=autohaus-drost.de&style=for-the-badge&url=https%3A%2F%2Fautohaus-drost.de)](https://autohaus-drost.de/)
+[![MOSAiC Wiki](https://img.shields.io/website?label=mosaic-eco.awi.de&style=for-the-badge&url=https%3A%2F%2Fmosaic-eco.awi.de)](https://mosaic-eco.awi.de)
 
 ## I'm a Musician, Developer, and conversational AI Trainer!
 
@@ -57,7 +58,7 @@ Welcome to my GitHub profile. Don't hesitate to check my [repositories](https://
 
 <summary>:zap: Github Stats</summary>
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AlexTeusz&show_icons=true&hide_border=true" />
+<!--<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AlexTeusz&show_icons=true&hide_border=true" /> -->
 
 
 [youtube]: https://www.youtube.com/channel/UCBaVG8SjGtITabko-NYARMg?view_as=subscriber
