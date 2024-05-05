@@ -1,9 +1,5 @@
 ### Hi there, I'm Alex 👋
 
-[![Stay KingPin](https://img.shields.io/website?label=stay-kingpin.de&style=for-the-badge&url=https%3A%2F%2Fstay-kingpin.de)](https://stay-kingpin.de)
-[![Zahntechnik Erdmann](https://img.shields.io/website?label=zahntechnik-erdmann.de&style=for-the-badge&url=https%3A%2F%2Fzahntechnik-erdmann.de)](https://zahntechnik-erdmann.de/)
-[![Autohaus Drost](https://img.shields.io/website?label=autohaus-drost.de&style=for-the-badge&url=https%3A%2F%2Fautohaus-drost.de)](https://autohaus-drost.de/)
-
 ## I'm a Software Engineer, Dance Teacher and musician!
 
 - [Website](https://alexteusz.de)
